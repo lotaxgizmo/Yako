@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Hero from './components/Hero'
+import About from './components/About'
+import Image from './components/Image'
+import Buy from './components/Buy'
+import Intel from './components/Intel'
+import Yakogun from './components/Yakogun'
+import Summary from './components/Summary'
+import Header from './components/Header'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="relative text-[#ABF13C] ">
+      <Hero />
+      {/* <Header />
+      <About />
+      <Image />
+      <Buy />
+      <Intel />
+      <Yakogun />
+      <Summary /> */}
     </div>
   );
 }
