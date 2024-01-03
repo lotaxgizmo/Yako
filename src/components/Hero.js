@@ -9,7 +9,7 @@ import yakohero from '../assets/yakohero.png'
 function Hero() {
     return (
         <div className='flex flex-col justify-center align-middle items-center dbg-red-200 relative'>
-            <div className="mainhero flex w-full justify-between align-middle items-center px-10 relative border-8 
+            <div className="mainhero flex w-full justify-between align-middle items-center px-10 relative .border-8 
             flex-col lg:flex-row">
 
                 <div className='self-start'><img src={leftback} alt="" className='w-[200px] hidden lg:flex' /></div>
