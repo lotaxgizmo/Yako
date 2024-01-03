@@ -7,16 +7,16 @@ import Intelbottom from './Intelbottom'
 
 function Intelleft() {
     return (
-        <div className='text-black w-[989px]'>
+        <div className='text-black w-[89px]d lg:w-[989px]'>
             <div className="inteltop text-center border-[6px] border-b-0 border-black">
-                <p className='text-[150px] -py-3'> YAKO INTEL</p>
+                <p className='text-[60px] lg:text-[150px] -py-3'> YAKO INTEL</p>
             </div>
             <div className=" intelbottom border-[6px] border-black">
-                <div className='flex items-center'>
+                <div className='flex flex-col lg:flex-row items-center'>
                     <div className="vector p-4 pr-0 border-b-[6px] border-black w-fit">
                         <img src={vectorsmall} alt="" />
                     </div>
-                    <p className='text-2xl p-4'>YAKO....YAKO.....YAKO....</p>
+                    <p className='text-xl lg:text-2xl p-4'>YAKO....YAKO.....YAKO....</p>
                 </div>
 
                 <div className="down p-5">
