@@ -11,13 +11,13 @@ function App() {
   return (
     <div className="relative text-[#ABF13C] ">
       <Hero />
-      {/* <Header />
+      <Header />
       <About />
       <Image />
       <Buy />
       <Intel />
       <Yakogun />
-      <Summary /> */}
+      <Summary />
     </div>
   );
 }
