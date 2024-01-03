@@ -7,11 +7,11 @@ import eyethingy from '../assets/eyethingy.png'
 
 function About() {
     return (
-        <div className='  w-screen bg-s-200/20 px-0 lg:px-10 py-20'>
+        <div className='ABOUT  w-screen bg-s-200/20 px-0 lg:px-10 py-20'>
             <div className="back relative">
                 <img src={aboutback} alt="" className='w-auto absolute hidden lg:flex' />
                 <img src={aboutbackmobile} alt="" className='w-auto absolute flex lg:hidden ' />
-                <div className="maincontent h-[750px] flex flex-col items-center p-10 pt-20  lg:p-20">
+                <div className="maincontent lg:h-[750px] flex flex-col items-center p-10 pt-20  lg:p-20">
                     <div className='bg-green-400d w-full z-20'>
                         <p className='text-[36px] lg:text-[96px]'>In the year 2069...</p>
                         <p className='text-2xl lg:text-[29px]'> a mostly peaceful extraterrestrial species called the Borks inhabit the planet SOL.
