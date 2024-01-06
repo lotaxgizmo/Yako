@@ -10,14 +10,14 @@ import Header from './components/Header'
 function App() {
   return (
     <div className="relative text-[#ABF13C] ">
-      {/* <Header />
-      <Hero /> */}
+      <Header />
+      <Hero />
       <About />
       <Image />
-      {/* <Buy />
+      <Buy />
       <Intel />
       <Yakogun />
-      <Summary /> */}
+      <Summary />
     </div>
   );
 }
