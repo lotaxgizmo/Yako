@@ -27,6 +27,7 @@ function About() {
                         </div>
                     </div>
                 </div>
+                <img src={aboutbackmobile} alt="" className='w-auto  flex lg:hidden ' />
             </div>
 
 
