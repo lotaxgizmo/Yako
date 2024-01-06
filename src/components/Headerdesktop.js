@@ -25,7 +25,7 @@ function Headerdesktop() {
                         <img src={About} alt="" className='w-[93px] mx-[5px]' />
                     </a>
                 </div>
-                <a href="#Homelink" target="_blank" rel="noopener noreferrer">
+                <a href="https://yako.monster" target="_blank" rel="noopener noreferrer">
 
                     <img src={yako3} alt="" className='absolute top-[10px] right-[19px] w-[77px] z-10' />
                 </a>
