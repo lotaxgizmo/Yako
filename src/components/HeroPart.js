@@ -2,7 +2,7 @@
 import React from 'react'
 import alert from '../assets/alert.png'
 import buyyako from '../assets/buyyako.png'
-import raydium from '../assets/raydium.png'
+import telegramm from '../assets/telegramm.png'
 import yakohero from '../assets/yakohero.png'
 
 function HeroPart() {
@@ -12,7 +12,7 @@ function HeroPart() {
                 <div className="but absolute top-[10px] z-10">
                     <div className=" btns w-screen flex flex-col items-center">
                         <div className='my-2'><a href="#" target="_blank" rel="noopener noreferrer"><img src={buyyako} alt="" className='w-auto ' /></a></div>
-                        <div className='my-2'><a href="#" target="_blank" rel="noopener noreferrer"><img src={raydium} alt="" className='w-auto ' /></a></div>
+                        <div className='my-2'><a href="https://t.me/yakosolana" target="_blank" rel="noopener noreferrer"><img src={telegramm} alt="" className='w-auto ' /></a></div>
                     </div>
                 </div>
                 <div className="hidden lg:block absolute yakohero">

@@ -36,7 +36,7 @@ function Headermobile() {
                                 <div className='absolute top-24'><img src={yakonormal} alt="" className='  w-[76px] z-[200] border-8s mt-2d' /></div>
                                 <div className="links flex flex-col absolute bottom-10 border-4d z-40">
                                     <a href="#Home" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Home</a>
-                                    <a href="#About" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>About</a>
+                                    <a href="https://x.com/yakosolana" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>X</a>
                                     <a href="https://t.me/yakosolana" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Telegram</a>
                                     <a href="#Raydium" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Raydium</a>
                                 </div>

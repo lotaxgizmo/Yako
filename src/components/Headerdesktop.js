@@ -1,7 +1,7 @@
 import React from 'react'
 import header from '../assets/header.png'
 import Headerback from '../assets/Headerback.svg'
-import About from '../assets/About.svg'
+import Xx from '../assets/Xx.svg'
 import Home from '../assets/Home.svg'
 import Raydiumm from '../assets/Raydiumm.svg'
 import Telegram from '../assets/Telegram.svg'
@@ -21,8 +21,8 @@ function Headerdesktop() {
                         <img src={Home} alt="" className=' mt-20. w-[93px] ml-[27px]' />
                     </a>
 
-                    <a href="#About" target="_blank" rel="noopener noreferrer">
-                        <img src={About} alt="" className='w-[93px] mx-[5px]' />
+                    <a href="https://x.com/yakosolana" target="_blank" rel="noopener noreferrer">
+                        <img src={Xx} alt="" className='w-[93px] mx-[5px]' />
                     </a>
                 </div>
                 <a href="https://yako.monster" target="_blank" rel="noopener noreferrer">
