@@ -30,7 +30,7 @@ function Intel() {
 
             </div>
 
-            <div><a href="#" target="_blank" rel="noopener noreferrer">
+            <div><a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer">
                 <img src={buyyako} alt="" />
             </a></div>
         </div>

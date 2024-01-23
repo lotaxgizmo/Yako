@@ -11,7 +11,7 @@ function HeroPart() {
             <div className='relative w-screen bottom-10'>
                 <div className="but absolute top-[10px] z-10">
                     <div className=" btns w-screen flex flex-col items-center">
-                        <div className='my-2'><a href="#" target="_blank" rel="noopener noreferrer"><img src={buyyako} alt="" className='w-auto ' /></a></div>
+                        <div className='my-2'><a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer"><img src={buyyako} alt="" className='w-auto ' /></a></div>
                         <div className='my-2'><a href="https://t.me/yakosolana" target="_blank" rel="noopener noreferrer"><img src={telegramm} alt="" className='w-auto ' /></a></div>
                     </div>
                 </div>

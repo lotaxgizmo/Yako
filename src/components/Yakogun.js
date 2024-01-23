@@ -21,7 +21,7 @@ function Yakogun() {
             </div>
 
             <div className='animate-pulse mb-10 lg:mb-0'><img src={guns} alt="" /></div>
-            <div className=' '><a href="#" target="_blank" rel="noopener noreferrer"><img src={buyyakoblack} alt="" /></a></div>
+            <div className=' '><a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer"><img src={buyyakoblack} alt="" /></a></div>
         </div>
     )
 }

@@ -16,7 +16,7 @@ function Summary() {
                         <p className='text-[29px]'>and a large part of his army set course for planet ETH, to take the fight back to Evil Vitalik and overtake the galactic leader’s reign once and for all… </p>
                         <div className='flex justify-between'>
                             <div className='py-10'>
-                                <a href="#" target="_blank" rel="noopener noreferrer"><img src={buyyako} alt="" className='w-auto ' /></a>
+                                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer"><img src={buyyako} alt="" className='w-auto ' /></a>
                             </div>
                         </div>
                     </div>
