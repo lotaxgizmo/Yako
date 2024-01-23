@@ -5,14 +5,16 @@ import hero from '../assets/hero.png'
 import leftback from '../assets/leftback.png'
 import infinity from '../assets/infinity.png'
 import yakohero from '../assets/yakohero.png'
+import { useGlitch } from 'react-powerglitch'
 
 function Hero() {
+    const glitch = useGlitch();
     return (
         <div className='flex flex-col justify-center align-middle items-center dbg-red-200 relative '>
             <div className="mainhero flex w-full justify-between align-middle items-center px-10 relative .border-8 mt-5
             flex-col lg:flex-row">
 
-                <div className='self-start'><img src={leftback} alt="" className='w-[200px] hidden lg:flex' /></div>
+                <div ref={glitch.ref} className='self-start lg:mb-8'><img src={leftback} alt="" className='w-[200px] hidden lg:flex' /></div>
 
 
                 <div className='self-center z-10'><img src={hero} alt="" className='w-[450px] my-10 lg:my-0' /></div>
