@@ -22,7 +22,7 @@ function About() {
                             <br />
                             Some say it can rip the space time continuum and that it even slows down time when it is consumed.</p>
                         <div className='flex justify-between flex-col lg:flex-row'>
-                            <div className='py-3 lg:py-10'><a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer"><img src={buyyakoblack} alt="" className='w-auto ' /></a></div>
+                            <div className='py-3 lg:py-10'><a href="#" target="_blank" rel="noopener noreferrer"><img src={buyyakoblack} alt="" className='w-auto ' /></a></div>
                             <div className='hidden lg:flex'><img src={eyethingy} alt="" className='w-auto py-10' /></div>
                         </div>
                     </div>

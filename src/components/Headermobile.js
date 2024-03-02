@@ -38,7 +38,7 @@ function Headermobile() {
                                     <a href="#Home" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Home</a>
                                     <a href="https://x.com/yakosolana" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>X</a>
                                     <a href="https://t.me/yakosolana" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Telegram</a>
-                                    <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Raydium</a>
+                                    <a href="#" target="_blank" rel="noopener noreferrer" className='md: text-[50px] leading-[60px] py-2 z-40 border-b-2 border-black w-64- text-center'>Raydium</a>
                                 </div>
                             </div>
                             {/* Add more menu items as needed */}
