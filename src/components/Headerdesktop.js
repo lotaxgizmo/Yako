@@ -32,7 +32,7 @@ function Headerdesktop() {
                 <a href="https://t.me/yakosolana" target="_blank" rel="noopener noreferrer">
                     <img src={Telegram} alt="" className='absolute top-[17px] right-[19px] w-[157px]' />
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=G7ytdz7hHPW4CmFeAqWhhTPj3FMFvWHQWRD1aVEF2M7Q" target="_blank" rel="noopener noreferrer">
                     <img src={Raydiumm} alt="" className='absolute top-[150px] [17px] right-[19px] w-10' />
                 </a>
 
